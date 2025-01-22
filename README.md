@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shishiranjan</h1>
-<h3 align="center">A passionate frontend developer who enjoyed stripping down the website to the basics and do the few things very well which is teared up.</h3>
+<h3 align="center">A passionate AI researcher/Developer researching about Generative AI and its components like RAG, AI Agents and so on.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shishiranjan&label=Profile%20views&color=0e75b6&style=flat" alt="shishiranjan" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ccranjancool" target="blank"><img src="https://img.shields.io/twitter/follow/ccranjancool?logo=twitter&style=for-the-badge" alt="ccranjancool" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently preparing for NVIDIA Certified-Associate: **Generative AI and LLMS**
 
-- 💬 Ask me about **Javascript, HTML, CSS, Data Structures, Java**
+- 💬 Ask me about **RAG, LLMs, AI Agents, Neural Networks, Transformers**
 
 - 📫 How to reach me **shishiranjan.thakur@gmail.com**
 
